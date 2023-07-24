@@ -1,2 +1,2 @@
 # Lehnert_et_al_Attention
-Code to perform behavioral reverse correlation
+Sample data from mouse 3590 and matlab code to perform behavioral reverse correlation
