@@ -14,4 +14,7 @@ In Matlab, run the main script mainCreateKernelFig3BMouse3590.m.  The analysis s
 3) Plot kernels.
 
 Details of how energy and kernels are computed can be found in the Methods of the paper.
+
+Example plots showing the outcome of running the code with sample data:
+
 ![3590](https://github.com/Swamylab/Lehnert_et_al_Attention/assets/33532310/21c293ea-e66d-4aee-b651-9fe68e6a9e1b)
