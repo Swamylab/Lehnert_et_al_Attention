@@ -1,5 +1,5 @@
 # Lehnert_et_al_Attention
-Code and data to produce the reverse correlation kernels for mouse 3590 shown in Figure 3B in Lehnert et al, Visual attention to features and space in mice using reverse correlation (2023).
+Code to produce the reverse correlation kernels for mouse 3590 shown in Figure 3B in Lehnert et al, Visual attention to features and space in mice using reverse correlation (2023). Data can be found at https://doi.org/10.5061/dryad.931zcrjrq. Place Code folder above and data folder from Dryad within a common folder, then follow the instructions below.
 
 Code developed on an 8-core 64GB Linux (Ubuntu) using MATLAB (R2020a) Update 1 with all toolboxes. Approximate run time is 15 hours and requires ~6 GB of hard disk space for the mouse data (included in this download) and to save the stimulus energy.
 
